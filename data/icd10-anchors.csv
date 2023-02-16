@@ -1,0 +1,170 @@
+A00,Cholera
+A01,Typhoid and paratyphoid fevers
+A02,Other salmonella infections
+A03,Shigellosis
+A04,Other bacterial intestinal infections
+A05,Other bacterial foodborne intoxications not elsewhere classified
+A06,Amoebiasis
+A07,Other protozoal intestinal diseases
+A08,Viral and other specified intestinal infections
+A09,Other gastroenteritis and colitis of infectious and unspecified origin
+A15,Respiratory tuberculosis bacteriologically and histologically confirmed
+A16,Respiratory tuberculosis not confirmed bacteriologically or histologically
+A17,Tuberculosis of nervous system
+A18,Tuberculosis of other organs
+A19,Miliary tuberculosis
+A20,Plague
+A21,Tularaemia
+A22,Anthrax
+A23,Brucellosis
+A24,Glanders and melioidosis
+A25,Rat-bite fevers
+A26,Erysipeloid
+A27,Leptospirosis
+A28,Other zoonotic bacterial diseases not elsewhere classified
+A30,Leprosy [Hansen disease]
+A31,Infection due to other mycobacteria
+A32,Listeriosis
+A33,Tetanus neonatorum
+A34,Obstetrical tetanus
+A35,Other tetanus
+A36,Diphtheria
+A37,Whooping cough
+A38,Scarlet fever
+A39,Meningococcal infection
+A40,Streptococcal sepsis
+A41,Other sepsis
+A42,Actinomycosis
+A43,Nocardiosis
+A44,Bartonellosis
+A46,Erysipelas
+A48,Other bacterial diseases not elsewhere classified
+A49,Bacterial infection of unspecified site
+A50,Congenital syphilis
+A51,Early syphilis
+A52,Late syphilis
+A53,Other and unspecified syphilis
+A54,Gonococcal infection
+A55,Chlamydial lymphogranuloma (venereum)
+A56,Other sexually transmitted chlamydial diseases
+A57,Chancroid
+A58,Granuloma inguinale
+A59,Trichomoniasis
+A60,Anogenital herpesviral [herpes simplex] infection
+A63,Other predominantly sexually transmitted diseases not elsewhere classified
+A64,Unspecified sexually transmitted disease
+A65,Nonvenereal syphilis
+A66,Yaws
+A67,Pinta [carate]
+A68,Relapsing fevers
+A69,Other spirochaetal infections
+A70,Chlamydia psittaci infection
+A71,Trachoma
+A74,Other diseases caused by chlamydiae
+A75,Typhus fever
+A77,Spotted fever [tick-borne rickettsioses]
+A78,Q fever
+A79,Other rickettsioses
+A80,Acute poliomyelitis
+A81,Atypical virus infections of central nervous system
+A82,Rabies
+A83,Mosquito-borne viral encephalitis
+A84,Tick-borne viral encephalitis
+A85,Other viral encephalitis not elsewhere classified
+A86,Unspecified viral encephalitis
+A87,Viral meningitis
+A88,Other viral infections of central nervous system not elsewhere classified
+A89,Unspecified viral infection of central nervous system
+A92,Other mosquito-borne viral fevers
+A93,Other arthropod-borne viral fevers not elsewhere classified
+A94,Unspecified arthropod-borne viral fever
+A95,Yellow fever
+A96,Arenaviral haemorrhagic fever
+A97,Dengue
+A98,Other viral haemorrhagic fevers not elsewhere classified
+A99,Unspecified viral haemorrhagic fever
+B00,Herpesviral [herpes simplex] infections
+B01,Varicella [chickenpox]
+B02,Zoster [herpes zoster]
+B03,Smallpox
+B04,Monkeypox
+B05,Measles
+B06,Rubella [German measles]
+B07,Viral warts
+B08,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions
+B15,Acute hepatitis A
+B16,Acute hepatitis B
+B17,Other acute viral hepatitis
+B18,Chronic viral hepatitis
+B19,Unspecified viral hepatitis
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases
+B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms
+B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases
+B23,Human immunodeficiency virus [HIV] disease resulting in other conditions
+B24,Unspecified human immunodeficiency virus [HIV] disease
+B25,Cytomegaloviral disease
+B26,Mumps
+B27,Infectious mononucleosis
+B30,Viral conjunctivitis
+B33,Other viral diseases not elsewhere classified
+B34,Viral infection of unspecified site
+B35,Dermatophytosis
+B36,Other superficial mycoses
+B37,Candidiasis
+B38,Coccidioidomycosis
+B39,Histoplasmosis
+B40,Blastomycosis
+B41,Paracoccidioidomycosis
+B42,Sporotrichosis
+B43,Chromomycosis and phaeomycotic abscess
+B44,Aspergillosis
+B45,Cryptococcosis
+B46,Zygomycosis
+B47,Mycetoma
+B48,Other mycoses not elsewhere classified
+B49,Unspecified mycosis
+B50,Plasmodium falciparum malaria
+B51,Plasmodium vivax malaria
+B52,Plasmodium malariae malaria
+B53,Other parasitologically confirmed malaria
+B54,Unspecified malaria
+B55,Leishmaniasis
+B56,African trypanosomiasis
+B57,Chagas disease
+B58,Toxoplasmosis
+B60,Other protozoal diseases not elsewhere classified
+B64,Unspecified protozoal disease
+B65,Schistosomiasis [bilharziasis]
+B66,Other fluke infections
+B67,Echinococcosis
+B68,Taeniasis
+B69,Cysticercosis
+B70,Diphyllobothriasis and sparganosis
+B71,Other cestode infections
+B72,Dracunculiasis
+B73,Onchocerciasis
+B74,Filariasis
+B75,Trichinellosis
+B76,Hookworm diseases
+B77,Ascariasis
+B78,Strongyloidiasis
+B79,Trichuriasis
+B80,Enterobiasis
+B81,Other intestinal helminthiases not elsewhere classified
+B82,Unspecified intestinal parasitism
+B83,Other helminthiases
+B85,Pediculosis and phthiriasis
+B86,Scabies
+B87,Myiasis
+B88,Other infestations
+B89,Unspecified parasitic disease
+B90,Sequelae of tuberculosis
+B91,Sequelae of poliomyelitis
+B92,Sequelae of leprosy
+B94,Sequelae of other and unspecified infectious and parasitic diseases
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters
+B97,Viral agents as the cause of diseases classified to other chapters
+B98,Other specified infectious agents as the cause of diseases classified to other chapters
+B99,Other and unspecified infectious diseases

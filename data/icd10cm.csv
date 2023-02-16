@@ -1,0 +1,1158 @@
+A000,Cholera due to Vibrio cholerae 01 biovar cholerae,,Cholera,Intestinal infectious diseases
+A001,Cholera due to Vibrio cholerae 01 biovar eltor,,Cholera,Intestinal infectious diseases
+A009,Cholera unspecified,,Cholera,Intestinal infectious diseases
+A0100,Typhoid fever unspecified,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A0101,Typhoid meningitis,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A0102,Typhoid fever with heart involvement,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A0103,Typhoid pneumonia,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A0104,Typhoid arthritis,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A0105,Typhoid osteomyelitis,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A0109,Typhoid fever with other complications,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A010,Typhoid fever,,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A011,Paratyphoid fever A,,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A012,Paratyphoid fever B,,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A013,Paratyphoid fever C,,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A014,Paratyphoid fever unspecified,,Typhoid and paratyphoid fevers,Intestinal infectious diseases
+A020,Salmonella enteritis,,Other salmonella infections,Intestinal infectious diseases
+A021,Salmonella sepsis,,Other salmonella infections,Intestinal infectious diseases
+A0220,Localized salmonella infection unspecified,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases
+A0221,Salmonella meningitis,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases
+A0222,Salmonella pneumonia,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases
+A0223,Salmonella arthritis,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases
+A0224,Salmonella osteomyelitis,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases
+A0225,Salmonella pyelonephritis,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases
+A0229,Salmonella with other localized infection,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases
+A022,Localized salmonella infections,,Other salmonella infections,Intestinal infectious diseases
+A028,Other specified salmonella infections,,Other salmonella infections,Intestinal infectious diseases
+A029,Salmonella infection unspecified,,Other salmonella infections,Intestinal infectious diseases
+A030,Shigellosis due to Shigella dysenteriae,,Shigellosis,Intestinal infectious diseases
+A031,Shigellosis due to Shigella flexneri,,Shigellosis,Intestinal infectious diseases
+A032,Shigellosis due to Shigella boydii,,Shigellosis,Intestinal infectious diseases
+A033,Shigellosis due to Shigella sonnei,,Shigellosis,Intestinal infectious diseases
+A038,Other shigellosis,,Shigellosis,Intestinal infectious diseases
+A039,Shigellosis unspecified,,Shigellosis,Intestinal infectious diseases
+A040,Enteropathogenic Escherichia coli infection,,Other bacterial intestinal infections,Intestinal infectious diseases
+A041,Enterotoxigenic Escherichia coli infection,,Other bacterial intestinal infections,Intestinal infectious diseases
+A042,Enteroinvasive Escherichia coli infection,,Other bacterial intestinal infections,Intestinal infectious diseases
+A043,Enterohemorrhagic Escherichia coli infection,,Other bacterial intestinal infections,Intestinal infectious diseases
+A044,Other intestinal Escherichia coli infections,,Other bacterial intestinal infections,Intestinal infectious diseases
+A045,Campylobacter enteritis,,Other bacterial intestinal infections,Intestinal infectious diseases
+A046,Enteritis due to Yersinia enterocolitica,,Other bacterial intestinal infections,Intestinal infectious diseases
+A0471,Enterocolitis due to Clostridium difficile recurrent,Enterocolitis due to Clostridium difficile,Other bacterial intestinal infections,Intestinal infectious diseases
+A0472,Enterocolitis due to Clostridium difficile not specified as recurrent,Enterocolitis due to Clostridium difficile,Other bacterial intestinal infections,Intestinal infectious diseases
+A047,Enterocolitis due to Clostridium difficile,,Other bacterial intestinal infections,Intestinal infectious diseases
+A048,Other specified bacterial intestinal infections,,Other bacterial intestinal infections,Intestinal infectious diseases
+A049,Bacterial intestinal infection unspecified,,Other bacterial intestinal infections,Intestinal infectious diseases
+A050,Foodborne staphylococcal intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases
+A051,Botulism food poisoning,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases
+A052,Foodborne Clostridium perfringens [Clostridium welchii] intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases
+A053,Foodborne Vibrio parahaemolyticus intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases
+A054,Foodborne Bacillus cereus intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases
+A055,Foodborne Vibrio vulnificus intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases
+A058,Other specified bacterial foodborne intoxications,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases
+A059,Bacterial foodborne intoxication unspecified,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases
+A060,Acute amebic dysentery,,Amoebiasis,Intestinal infectious diseases
+A061,Chronic intestinal amebiasis,,Amoebiasis,Intestinal infectious diseases
+A062,Amebic nondysenteric colitis,,Amoebiasis,Intestinal infectious diseases
+A063,Ameboma of intestine,,Amoebiasis,Intestinal infectious diseases
+A064,Amebic liver abscess,,Amoebiasis,Intestinal infectious diseases
+A065,Amebic lung abscess,,Amoebiasis,Intestinal infectious diseases
+A066,Amebic brain abscess,,Amoebiasis,Intestinal infectious diseases
+A067,Cutaneous amebiasis,,Amoebiasis,Intestinal infectious diseases
+A0681,Amebic cystitis,Amebic infection of other sites,Amoebiasis,Intestinal infectious diseases
+A0682,Other amebic genitourinary infections,Amebic infection of other sites,Amoebiasis,Intestinal infectious diseases
+A0689,Other amebic infections,Amebic infection of other sites,Amoebiasis,Intestinal infectious diseases
+A068,Amebic infection of other sites,,Amoebiasis,Intestinal infectious diseases
+A069,Amebiasis unspecified,,Amoebiasis,Intestinal infectious diseases
+A070,Balantidiasis,,Other protozoal intestinal diseases,Intestinal infectious diseases
+A071,Giardiasis [lambliasis],,Other protozoal intestinal diseases,Intestinal infectious diseases
+A072,Cryptosporidiosis,,Other protozoal intestinal diseases,Intestinal infectious diseases
+A073,Isosporiasis,,Other protozoal intestinal diseases,Intestinal infectious diseases
+A074,Cyclosporiasis,,Other protozoal intestinal diseases,Intestinal infectious diseases
+A078,Other specified protozoal intestinal diseases,,Other protozoal intestinal diseases,Intestinal infectious diseases
+A079,Protozoal intestinal disease unspecified,,Other protozoal intestinal diseases,Intestinal infectious diseases
+A080,Rotaviral enteritis,,Viral and other specified intestinal infections,Intestinal infectious diseases
+A0811,Acute gastroenteropathy due to Norwalk agent,Acute gastroenteropathy due to Norwalk agent and other small round viruses,Viral and other specified intestinal infections,Intestinal infectious diseases
+A0819,Acute gastroenteropathy due to other small round viruses,Acute gastroenteropathy due to Norwalk agent and other small round viruses,Viral and other specified intestinal infections,Intestinal infectious diseases
+A081,Acute gastroenteropathy due to Norwalk agent and other small round viruses,,Viral and other specified intestinal infections,Intestinal infectious diseases
+A082,Adenoviral enteritis,,Viral and other specified intestinal infections,Intestinal infectious diseases
+A0831,Calicivirus enteritis,Other viral enteritis,Viral and other specified intestinal infections,Intestinal infectious diseases
+A0832,Astrovirus enteritis,Other viral enteritis,Viral and other specified intestinal infections,Intestinal infectious diseases
+A0839,Other viral enteritis,Other viral enteritis,Viral and other specified intestinal infections,Intestinal infectious diseases
+A083,Other viral enteritis,,Viral and other specified intestinal infections,Intestinal infectious diseases
+A084,Viral intestinal infection unspecified,,Viral and other specified intestinal infections,Intestinal infectious diseases
+A088,Other specified intestinal infections,,Viral and other specified intestinal infections,Intestinal infectious diseases
+A09,Other gastroenteritis and colitis of infectious and unspecified origin,,Other gastroenteritis and colitis of infectious and unspecified origin,Intestinal infectious diseases
+A150,Tuberculosis of lung,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis
+A154,Tuberculosis of intrathoracic lymph nodes,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis
+A155,Tuberculosis of larynx trachea and bronchus,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis
+A156,Tuberculous pleurisy,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis
+A157,Primary respiratory tuberculosis,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis
+A158,Other respiratory tuberculosis,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis
+A159,Respiratory tuberculosis unspecified,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis
+A170,Tuberculous meningitis,,Tuberculosis of nervous system,Tuberculosis
+A171,Meningeal tuberculoma,,Tuberculosis of nervous system,Tuberculosis
+A1781,Tuberculoma of brain and spinal cord,Other tuberculosis of nervous system,Tuberculosis of nervous system,Tuberculosis
+A1782,Tuberculous meningoencephalitis,Other tuberculosis of nervous system,Tuberculosis of nervous system,Tuberculosis
+A1783,Tuberculous neuritis,Other tuberculosis of nervous system,Tuberculosis of nervous system,Tuberculosis
+A1789,Other tuberculosis of nervous system,Other tuberculosis of nervous system,Tuberculosis of nervous system,Tuberculosis
+A178,Other tuberculosis of nervous system,,Tuberculosis of nervous system,Tuberculosis
+A179,Tuberculosis of nervous system unspecified,,Tuberculosis of nervous system,Tuberculosis
+A1801,Tuberculosis of spine,Tuberculosis of bones and joints,Tuberculosis of other organs,Tuberculosis
+A1802,Tuberculous arthritis of other joints,Tuberculosis of bones and joints,Tuberculosis of other organs,Tuberculosis
+A1803,Tuberculosis of other bones,Tuberculosis of bones and joints,Tuberculosis of other organs,Tuberculosis
+A1809,Other musculoskeletal tuberculosis,Tuberculosis of bones and joints,Tuberculosis of other organs,Tuberculosis
+A180,Tuberculosis of bones and joints,,Tuberculosis of other organs,Tuberculosis
+A1810,Tuberculosis of genitourinary system unspecified,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis
+A1811,Tuberculosis of kidney and ureter,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis
+A1812,Tuberculosis of bladder,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis
+A1813,Tuberculosis of other urinary organs,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis
+A1814,Tuberculosis of prostate,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis
+A1815,Tuberculosis of other male genital organs,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis
+A1816,Tuberculosis of cervix,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis
+A1817,Tuberculous female pelvic inflammatory disease,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis
+A1818,Tuberculosis of other female genital organs,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis
+A181,Tuberculosis of genitourinary system,,Tuberculosis of other organs,Tuberculosis
+A182,Tuberculous peripheral lymphadenopathy,,Tuberculosis of other organs,Tuberculosis
+A1831,Tuberculous peritonitis,Tuberculosis of intestines peritoneum and mesenteric glands,Tuberculosis of other organs,Tuberculosis
+A1832,Tuberculous enteritis,Tuberculosis of intestines peritoneum and mesenteric glands,Tuberculosis of other organs,Tuberculosis
+A1839,Retroperitoneal tuberculosis,Tuberculosis of intestines peritoneum and mesenteric glands,Tuberculosis of other organs,Tuberculosis
+A183,Tuberculosis of intestines peritoneum and mesenteric glands,,Tuberculosis of other organs,Tuberculosis
+A184,Tuberculosis of skin and subcutaneous tissue,,Tuberculosis of other organs,Tuberculosis
+A1850,Tuberculosis of eye unspecified,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis
+A1851,Tuberculous episcleritis,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis
+A1852,Tuberculous keratitis,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis
+A1853,Tuberculous chorioretinitis,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis
+A1854,Tuberculous iridocyclitis,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis
+A1859,Other tuberculosis of eye,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis
+A185,Tuberculosis of eye,,Tuberculosis of other organs,Tuberculosis
+A186,Tuberculosis of (inner) (middle) ear,,Tuberculosis of other organs,Tuberculosis
+A187,Tuberculosis of adrenal glands,,Tuberculosis of other organs,Tuberculosis
+A1881,Tuberculosis of thyroid gland,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis
+A1882,Tuberculosis of other endocrine glands,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis
+A1883,Tuberculosis of digestive tract organs not elsewhere classified,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis
+A1884,Tuberculosis of heart,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis
+A1885,Tuberculosis of spleen,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis
+A1889,Tuberculosis of other sites,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis
+A188,Tuberculosis of other specified organs,,Tuberculosis of other organs,Tuberculosis
+A190,Acute miliary tuberculosis of a single specified site,,Miliary tuberculosis,Tuberculosis
+A191,Acute miliary tuberculosis of multiple sites,,Miliary tuberculosis,Tuberculosis
+A192,Acute miliary tuberculosis unspecified,,Miliary tuberculosis,Tuberculosis
+A198,Other miliary tuberculosis,,Miliary tuberculosis,Tuberculosis
+A199,Miliary tuberculosis unspecified,,Miliary tuberculosis,Tuberculosis
+A200,Bubonic plague,,Plague,Certain zoonotic bacterial diseases
+A201,Cellulocutaneous plague,,Plague,Certain zoonotic bacterial diseases
+A202,Pneumonic plague,,Plague,Certain zoonotic bacterial diseases
+A203,Plague meningitis,,Plague,Certain zoonotic bacterial diseases
+A207,Septicemic plague,,Plague,Certain zoonotic bacterial diseases
+A208,Other forms of plague,,Plague,Certain zoonotic bacterial diseases
+A209,Plague unspecified,,Plague,Certain zoonotic bacterial diseases
+A210,Ulceroglandular tularemia,,Tularaemia,Certain zoonotic bacterial diseases
+A211,Oculoglandular tularemia,,Tularaemia,Certain zoonotic bacterial diseases
+A212,Pulmonary tularemia,,Tularaemia,Certain zoonotic bacterial diseases
+A213,Gastrointestinal tularemia,,Tularaemia,Certain zoonotic bacterial diseases
+A217,Generalized tularemia,,Tularaemia,Certain zoonotic bacterial diseases
+A218,Other forms of tularemia,,Tularaemia,Certain zoonotic bacterial diseases
+A219,Tularemia unspecified,,Tularaemia,Certain zoonotic bacterial diseases
+A220,Cutaneous anthrax,,Anthrax,Certain zoonotic bacterial diseases
+A221,Pulmonary anthrax,,Anthrax,Certain zoonotic bacterial diseases
+A222,Gastrointestinal anthrax,,Anthrax,Certain zoonotic bacterial diseases
+A227,Anthrax sepsis,,Anthrax,Certain zoonotic bacterial diseases
+A228,Other forms of anthrax,,Anthrax,Certain zoonotic bacterial diseases
+A229,Anthrax unspecified,,Anthrax,Certain zoonotic bacterial diseases
+A230,Brucellosis due to Brucella melitensis,,Brucellosis,Certain zoonotic bacterial diseases
+A231,Brucellosis due to Brucella abortus,,Brucellosis,Certain zoonotic bacterial diseases
+A232,Brucellosis due to Brucella suis,,Brucellosis,Certain zoonotic bacterial diseases
+A233,Brucellosis due to Brucella canis,,Brucellosis,Certain zoonotic bacterial diseases
+A238,Other brucellosis,,Brucellosis,Certain zoonotic bacterial diseases
+A239,Brucellosis unspecified,,Brucellosis,Certain zoonotic bacterial diseases
+A240,Glanders,,Glanders and melioidosis,Certain zoonotic bacterial diseases
+A241,Acute and fulminating melioidosis,,Glanders and melioidosis,Certain zoonotic bacterial diseases
+A242,Subacute and chronic melioidosis,,Glanders and melioidosis,Certain zoonotic bacterial diseases
+A243,Other melioidosis,,Glanders and melioidosis,Certain zoonotic bacterial diseases
+A249,Melioidosis unspecified,,Glanders and melioidosis,Certain zoonotic bacterial diseases
+A250,Spirillosis,,Rat-bite fevers,Certain zoonotic bacterial diseases
+A251,Streptobacillosis,,Rat-bite fevers,Certain zoonotic bacterial diseases
+A259,Rat-bite fever unspecified,,Rat-bite fevers,Certain zoonotic bacterial diseases
+A260,Cutaneous erysipeloid,,Erysipeloid,Certain zoonotic bacterial diseases
+A267,Erysipelothrix sepsis,,Erysipeloid,Certain zoonotic bacterial diseases
+A268,Other forms of erysipeloid,,Erysipeloid,Certain zoonotic bacterial diseases
+A269,Erysipeloid unspecified,,Erysipeloid,Certain zoonotic bacterial diseases
+A270,Leptospirosis icterohemorrhagica,,Leptospirosis,Certain zoonotic bacterial diseases
+A2781,Aseptic meningitis in leptospirosis,Other forms of leptospirosis,Leptospirosis,Certain zoonotic bacterial diseases
+A2789,Other forms of leptospirosis,Other forms of leptospirosis,Leptospirosis,Certain zoonotic bacterial diseases
+A278,Other forms of leptospirosis,,Leptospirosis,Certain zoonotic bacterial diseases
+A279,Leptospirosis unspecified,,Leptospirosis,Certain zoonotic bacterial diseases
+A280,Pasteurellosis,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases
+A281,Cat-scratch disease,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases
+A282,Extraintestinal yersiniosis,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases
+A288,Other specified zoonotic bacterial diseases not elsewhere classified,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases
+A289,Zoonotic bacterial disease unspecified,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases
+A300,Indeterminate leprosy,,Leprosy [Hansen disease],Other bacterial diseases
+A301,Tuberculoid leprosy,,Leprosy [Hansen disease],Other bacterial diseases
+A302,Borderline tuberculoid leprosy,,Leprosy [Hansen disease],Other bacterial diseases
+A303,Borderline leprosy,,Leprosy [Hansen disease],Other bacterial diseases
+A304,Borderline lepromatous leprosy,,Leprosy [Hansen disease],Other bacterial diseases
+A305,Lepromatous leprosy,,Leprosy [Hansen disease],Other bacterial diseases
+A308,Other forms of leprosy,,Leprosy [Hansen disease],Other bacterial diseases
+A309,Leprosy unspecified,,Leprosy [Hansen disease],Other bacterial diseases
+A310,Pulmonary mycobacterial infection,,Infection due to other mycobacteria,Other bacterial diseases
+A311,Cutaneous mycobacterial infection,,Infection due to other mycobacteria,Other bacterial diseases
+A312,Disseminated mycobacterium avium-intracellulare complex (DMAC),,Infection due to other mycobacteria,Other bacterial diseases
+A318,Other mycobacterial infections,,Infection due to other mycobacteria,Other bacterial diseases
+A319,Mycobacterial infection unspecified,,Infection due to other mycobacteria,Other bacterial diseases
+A320,Cutaneous listeriosis,,Listeriosis,Other bacterial diseases
+A3211,Listerial meningitis,Listerial meningitis and meningoencephalitis,Listeriosis,Other bacterial diseases
+A3212,Listerial meningoencephalitis,Listerial meningitis and meningoencephalitis,Listeriosis,Other bacterial diseases
+A321,Listerial meningitis and meningoencephalitis,,Listeriosis,Other bacterial diseases
+A327,Listerial sepsis,,Listeriosis,Other bacterial diseases
+A3281,Oculoglandular listeriosis,Other forms of listeriosis,Listeriosis,Other bacterial diseases
+A3282,Listerial endocarditis,Other forms of listeriosis,Listeriosis,Other bacterial diseases
+A3289,Other forms of listeriosis,Other forms of listeriosis,Listeriosis,Other bacterial diseases
+A328,Other forms of listeriosis,,Listeriosis,Other bacterial diseases
+A329,Listeriosis unspecified,,Listeriosis,Other bacterial diseases
+A33,Tetanus neonatorum,,Tetanus neonatorum,Other bacterial diseases
+A34,Obstetrical tetanus,,Obstetrical tetanus,Other bacterial diseases
+A35,Other tetanus,,Other tetanus,Other bacterial diseases
+A360,Pharyngeal diphtheria,,Diphtheria,Other bacterial diseases
+A361,Nasopharyngeal diphtheria,,Diphtheria,Other bacterial diseases
+A362,Laryngeal diphtheria,,Diphtheria,Other bacterial diseases
+A363,Cutaneous diphtheria,,Diphtheria,Other bacterial diseases
+A3681,Diphtheritic cardiomyopathy,Other diphtheria,Diphtheria,Other bacterial diseases
+A3682,Diphtheritic radiculomyelitis,Other diphtheria,Diphtheria,Other bacterial diseases
+A3683,Diphtheritic polyneuritis,Other diphtheria,Diphtheria,Other bacterial diseases
+A3684,Diphtheritic tubulo-interstitial nephropathy,Other diphtheria,Diphtheria,Other bacterial diseases
+A3685,Diphtheritic cystitis,Other diphtheria,Diphtheria,Other bacterial diseases
+A3686,Diphtheritic conjunctivitis,Other diphtheria,Diphtheria,Other bacterial diseases
+A3689,Other diphtheritic complications,Other diphtheria,Diphtheria,Other bacterial diseases
+A368,Other diphtheria,,Diphtheria,Other bacterial diseases
+A369,Diphtheria unspecified,,Diphtheria,Other bacterial diseases
+A3700,Whooping cough due to Bordetella pertussis without pneumonia,Whooping cough due to Bordetella pertussis,Whooping cough,Other bacterial diseases
+A3701,Whooping cough due to Bordetella pertussis with pneumonia,Whooping cough due to Bordetella pertussis,Whooping cough,Other bacterial diseases
+A370,Whooping cough due to Bordetella pertussis,,Whooping cough,Other bacterial diseases
+A3710,Whooping cough due to Bordetella parapertussis without pneumonia,Whooping cough due to Bordetella parapertussis,Whooping cough,Other bacterial diseases
+A3711,Whooping cough due to Bordetella parapertussis with pneumonia,Whooping cough due to Bordetella parapertussis,Whooping cough,Other bacterial diseases
+A371,Whooping cough due to Bordetella parapertussis,,Whooping cough,Other bacterial diseases
+A3780,Whooping cough due to other Bordetella species without pneumonia,Whooping cough due to other Bordetella species,Whooping cough,Other bacterial diseases
+A3781,Whooping cough due to other Bordetella species with pneumonia,Whooping cough due to other Bordetella species,Whooping cough,Other bacterial diseases
+A378,Whooping cough due to other Bordetella species,,Whooping cough,Other bacterial diseases
+A3790,Whooping cough unspecified species without pneumonia,Whooping cough unspecified species,Whooping cough,Other bacterial diseases
+A3791,Whooping cough unspecified species with pneumonia,Whooping cough unspecified species,Whooping cough,Other bacterial diseases
+A379,Whooping cough unspecified species,,Whooping cough,Other bacterial diseases
+A380,Scarlet fever with otitis media,,Scarlet fever,Other bacterial diseases
+A381,Scarlet fever with myocarditis,,Scarlet fever,Other bacterial diseases
+A388,Scarlet fever with other complications,,Scarlet fever,Other bacterial diseases
+A389,Scarlet fever uncomplicated,,Scarlet fever,Other bacterial diseases
+A390,Meningococcal meningitis,,Meningococcal infection,Other bacterial diseases
+A391,Waterhouse-Friderichsen syndrome,,Meningococcal infection,Other bacterial diseases
+A392,Acute meningococcemia,,Meningococcal infection,Other bacterial diseases
+A393,Chronic meningococcemia,,Meningococcal infection,Other bacterial diseases
+A394,Meningococcemia unspecified,,Meningococcal infection,Other bacterial diseases
+A3950,Meningococcal carditis unspecified,Meningococcal heart disease,Meningococcal infection,Other bacterial diseases
+A3951,Meningococcal endocarditis,Meningococcal heart disease,Meningococcal infection,Other bacterial diseases
+A3952,Meningococcal myocarditis,Meningococcal heart disease,Meningococcal infection,Other bacterial diseases
+A3953,Meningococcal pericarditis,Meningococcal heart disease,Meningococcal infection,Other bacterial diseases
+A395,Meningococcal heart disease,,Meningococcal infection,Other bacterial diseases
+A3981,Meningococcal encephalitis,Other meningococcal infections,Meningococcal infection,Other bacterial diseases
+A3982,Meningococcal retrobulbar neuritis,Other meningococcal infections,Meningococcal infection,Other bacterial diseases
+A3983,Meningococcal arthritis,Other meningococcal infections,Meningococcal infection,Other bacterial diseases
+A3984,Postmeningococcal arthritis,Other meningococcal infections,Meningococcal infection,Other bacterial diseases
+A3989,Other meningococcal infections,Other meningococcal infections,Meningococcal infection,Other bacterial diseases
+A398,Other meningococcal infections,,Meningococcal infection,Other bacterial diseases
+A399,Meningococcal infection unspecified,,Meningococcal infection,Other bacterial diseases
+A400,Sepsis due to streptococcus group A,,Streptococcal sepsis,Other bacterial diseases
+A401,Sepsis due to streptococcus group B,,Streptococcal sepsis,Other bacterial diseases
+A403,Sepsis due to Streptococcus pneumoniae,,Streptococcal sepsis,Other bacterial diseases
+A408,Other streptococcal sepsis,,Streptococcal sepsis,Other bacterial diseases
+A409,Streptococcal sepsis unspecified,,Streptococcal sepsis,Other bacterial diseases
+A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus,Sepsis due to Staphylococcus aureus,Other sepsis,Other bacterial diseases
+A4102,Sepsis due to Methicillin resistant Staphylococcus aureus,Sepsis due to Staphylococcus aureus,Other sepsis,Other bacterial diseases
+A410,Sepsis due to Staphylococcus aureus,,Other sepsis,Other bacterial diseases
+A411,Sepsis due to other specified staphylococcus,,Other sepsis,Other bacterial diseases
+A412,Sepsis due to unspecified staphylococcus,,Other sepsis,Other bacterial diseases
+A413,Sepsis due to Hemophilus influenzae,,Other sepsis,Other bacterial diseases
+A414,Sepsis due to anaerobes,,Other sepsis,Other bacterial diseases
+A4150,Gram-negative sepsis unspecified,Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases
+A4151,Sepsis due to Escherichia coli [E. coli],Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases
+A4152,Sepsis due to Pseudomonas,Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases
+A4153,Sepsis due to Serratia,Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases
+A4159,Other Gram-negative sepsis,Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases
+A415,Sepsis due to other Gram-negative organisms,,Other sepsis,Other bacterial diseases
+A4181,Sepsis due to Enterococcus,Other specified sepsis,Other sepsis,Other bacterial diseases
+A4189,Other specified sepsis,Other specified sepsis,Other sepsis,Other bacterial diseases
+A418,Other specified sepsis,,Other sepsis,Other bacterial diseases
+A419,Sepsis unspecified organism,,Other sepsis,Other bacterial diseases
+A420,Pulmonary actinomycosis,,Actinomycosis,Other bacterial diseases
+A421,Abdominal actinomycosis,,Actinomycosis,Other bacterial diseases
+A422,Cervicofacial actinomycosis,,Actinomycosis,Other bacterial diseases
+A427,Actinomycotic sepsis,,Actinomycosis,Other bacterial diseases
+A4281,Actinomycotic meningitis,Other forms of actinomycosis,Actinomycosis,Other bacterial diseases
+A4282,Actinomycotic encephalitis,Other forms of actinomycosis,Actinomycosis,Other bacterial diseases
+A4289,Other forms of actinomycosis,Other forms of actinomycosis,Actinomycosis,Other bacterial diseases
+A428,Other forms of actinomycosis,,Actinomycosis,Other bacterial diseases
+A429,Actinomycosis unspecified,,Actinomycosis,Other bacterial diseases
+A430,Pulmonary nocardiosis,,Nocardiosis,Other bacterial diseases
+A431,Cutaneous nocardiosis,,Nocardiosis,Other bacterial diseases
+A438,Other forms of nocardiosis,,Nocardiosis,Other bacterial diseases
+A439,Nocardiosis unspecified,,Nocardiosis,Other bacterial diseases
+A440,Systemic bartonellosis,,Bartonellosis,Other bacterial diseases
+A441,Cutaneous and mucocutaneous bartonellosis,,Bartonellosis,Other bacterial diseases
+A448,Other forms of bartonellosis,,Bartonellosis,Other bacterial diseases
+A449,Bartonellosis unspecified,,Bartonellosis,Other bacterial diseases
+A46,Erysipelas,,Erysipelas,Other bacterial diseases
+A480,Gas gangrene,,Other bacterial diseases not elsewhere classified,Other bacterial diseases
+A481,Legionnaires' disease,,Other bacterial diseases not elsewhere classified,Other bacterial diseases
+A482,Nonpneumonic Legionnaires' disease [Pontiac fever],,Other bacterial diseases not elsewhere classified,Other bacterial diseases
+A483,Toxic shock syndrome,,Other bacterial diseases not elsewhere classified,Other bacterial diseases
+A484,Brazilian purpuric fever,,Other bacterial diseases not elsewhere classified,Other bacterial diseases
+A4851,Infant botulism,Other specified botulism,Other bacterial diseases not elsewhere classified,Other bacterial diseases
+A4852,Wound botulism,Other specified botulism,Other bacterial diseases not elsewhere classified,Other bacterial diseases
+A485,Other specified botulism,,Other bacterial diseases not elsewhere classified,Other bacterial diseases
+A488,Other specified bacterial diseases,,Other bacterial diseases not elsewhere classified,Other bacterial diseases
+A4901,Methicillin susceptible Staphylococcus aureus infection unspecified site,Staphylococcal infection unspecified site,Bacterial infection of unspecified site,Other bacterial diseases
+A4902,Methicillin resistant Staphylococcus aureus infection unspecified site,Staphylococcal infection unspecified site,Bacterial infection of unspecified site,Other bacterial diseases
+A490,Staphylococcal infection unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases
+A491,Streptococcal infection unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases
+A492,Hemophilus influenzae infection unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases
+A493,Mycoplasma infection unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases
+A498,Other bacterial infections of unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases
+A499,Bacterial infection unspecified,,Bacterial infection of unspecified site,Other bacterial diseases
+A5001,Early congenital syphilitic oculopathy,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5002,Early congenital syphilitic osteochondropathy,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5003,Early congenital syphilitic pharyngitis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5004,Early congenital syphilitic pneumonia,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5005,Early congenital syphilitic rhinitis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5006,Early cutaneous congenital syphilis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5007,Early mucocutaneous congenital syphilis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5008,Early visceral congenital syphilis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5009,Other early congenital syphilis symptomatic,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A500,Early congenital syphilis symptomatic,,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A501,Early congenital syphilis latent,,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A502,Early congenital syphilis unspecified,,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5030,Late congenital syphilitic oculopathy unspecified,Late congenital syphilitic oculopathy,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5031,Late congenital syphilitic interstitial keratitis,Late congenital syphilitic oculopathy,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5032,Late congenital syphilitic chorioretinitis,Late congenital syphilitic oculopathy,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5039,Other late congenital syphilitic oculopathy,Late congenital syphilitic oculopathy,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A503,Late congenital syphilitic oculopathy,,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5040,Late congenital neurosyphilis unspecified,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5041,Late congenital syphilitic meningitis,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5042,Late congenital syphilitic encephalitis,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5043,Late congenital syphilitic polyneuropathy,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5044,Late congenital syphilitic optic nerve atrophy,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5045,Juvenile general paresis,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5049,Other late congenital neurosyphilis,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A504,Late congenital neurosyphilis [juvenile neurosyphilis],,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5051,Clutton's joints,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5052,Hutchinson's teeth,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5053,Hutchinson's triad,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5054,Late congenital cardiovascular syphilis,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5055,Late congenital syphilitic arthropathy,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5056,Late congenital syphilitic osteochondropathy,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5057,Syphilitic saddle nose,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A5059,Other late congenital syphilis symptomatic,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A505,Other late congenital syphilis symptomatic,,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A506,Late congenital syphilis latent,,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A507,Late congenital syphilis unspecified,,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A509,Congenital syphilis unspecified,,Congenital syphilis,Infections with a predominantly sexual mode of transmission
+A510,Primary genital syphilis,,Early syphilis,Infections with a predominantly sexual mode of transmission
+A511,Primary anal syphilis,,Early syphilis,Infections with a predominantly sexual mode of transmission
+A512,Primary syphilis of other sites,,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5131,Condyloma latum,Secondary syphilis of skin and mucous membranes,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5132,Syphilitic alopecia,Secondary syphilis of skin and mucous membranes,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5139,Other secondary syphilis of skin,Secondary syphilis of skin and mucous membranes,Early syphilis,Infections with a predominantly sexual mode of transmission
+A513,Secondary syphilis of skin and mucous membranes,,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5141,Secondary syphilitic meningitis,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5142,Secondary syphilitic female pelvic disease,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5143,Secondary syphilitic oculopathy,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5144,Secondary syphilitic nephritis,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5145,Secondary syphilitic hepatitis,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5146,Secondary syphilitic osteopathy,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5149,Other secondary syphilitic conditions,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission
+A514,Other secondary syphilis,,Early syphilis,Infections with a predominantly sexual mode of transmission
+A515,Early syphilis latent,,Early syphilis,Infections with a predominantly sexual mode of transmission
+A519,Early syphilis unspecified,,Early syphilis,Infections with a predominantly sexual mode of transmission
+A5200,Cardiovascular syphilis unspecified,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5201,Syphilitic aneurysm of aorta,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5202,Syphilitic aortitis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5203,Syphilitic endocarditis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5204,Syphilitic cerebral arteritis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5205,Other cerebrovascular syphilis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5206,Other syphilitic heart involvement,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5209,Other cardiovascular syphilis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A520,Cardiovascular and cerebrovascular syphilis,,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5210,Symptomatic neurosyphilis unspecified,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5211,Tabes dorsalis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5212,Other cerebrospinal syphilis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5213,Late syphilitic meningitis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5214,Late syphilitic encephalitis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5215,Late syphilitic neuropathy,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5216,Charcôt's arthropathy (tabetic),Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5217,General paresis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5219,Other symptomatic neurosyphilis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A521,Symptomatic neurosyphilis,,Late syphilis,Infections with a predominantly sexual mode of transmission
+A522,Asymptomatic neurosyphilis,,Late syphilis,Infections with a predominantly sexual mode of transmission
+A523,Neurosyphilis unspecified,,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5271,Late syphilitic oculopathy,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5272,Syphilis of lung and bronchus,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5273,Symptomatic late syphilis of other respiratory organs,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5274,Syphilis of liver and other viscera,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5275,Syphilis of kidney and ureter,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5276,Other genitourinary symptomatic late syphilis,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5277,Syphilis of bone and joint,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5278,Syphilis of other musculoskeletal tissue,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A5279,Other symptomatic late syphilis,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission
+A527,Other symptomatic late syphilis,,Late syphilis,Infections with a predominantly sexual mode of transmission
+A528,Late syphilis latent,,Late syphilis,Infections with a predominantly sexual mode of transmission
+A529,Late syphilis unspecified,,Late syphilis,Infections with a predominantly sexual mode of transmission
+A530,Latent syphilis unspecified as early or late,,Other and unspecified syphilis,Infections with a predominantly sexual mode of transmission
+A539,Syphilis unspecified,,Other and unspecified syphilis,Infections with a predominantly sexual mode of transmission
+A5400,Gonococcal infection of lower genitourinary tract unspecified,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5401,Gonococcal cystitis and urethritis unspecified,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5402,Gonococcal vulvovaginitis unspecified,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5403,Gonococcal cervicitis unspecified,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5409,Other gonococcal infection of lower genitourinary tract,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A540,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess,,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5421,Gonococcal infection of kidney and ureter,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5422,Gonococcal prostatitis,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5423,Gonococcal infection of other male genital organs,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5424,Gonococcal female pelvic inflammatory disease,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5429,Other gonococcal genitourinary infections,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A542,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5430,Gonococcal infection of eye unspecified,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5431,Gonococcal conjunctivitis,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5432,Gonococcal iridocyclitis,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5433,Gonococcal keratitis,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5439,Other gonococcal eye infection,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A543,Gonococcal infection of eye,,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5440,Gonococcal infection of musculoskeletal system unspecified,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5441,Gonococcal spondylopathy,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5442,Gonococcal arthritis,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5443,Gonococcal osteomyelitis,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5449,Gonococcal infection of other musculoskeletal tissue,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A544,Gonococcal infection of musculoskeletal system,,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A545,Gonococcal pharyngitis,,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A546,Gonococcal infection of anus and rectum,,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5481,Gonococcal meningitis,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5482,Gonococcal brain abscess,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5483,Gonococcal heart infection,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5484,Gonococcal pneumonia,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5485,Gonococcal peritonitis,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5486,Gonococcal sepsis,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A5489,Other gonococcal infections,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A548,Other gonococcal infections,,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A549,Gonococcal infection unspecified,,Gonococcal infection,Infections with a predominantly sexual mode of transmission
+A55,Chlamydial lymphogranuloma (venereum),,Chlamydial lymphogranuloma (venereum),Infections with a predominantly sexual mode of transmission
+A5600,Chlamydial infection of lower genitourinary tract unspecified,Chlamydial infection of lower genitourinary tract,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A5601,Chlamydial cystitis and urethritis,Chlamydial infection of lower genitourinary tract,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A5602,Chlamydial vulvovaginitis,Chlamydial infection of lower genitourinary tract,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A5609,Other chlamydial infection of lower genitourinary tract,Chlamydial infection of lower genitourinary tract,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A560,Chlamydial infection of lower genitourinary tract,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A5611,Chlamydial female pelvic inflammatory disease,Chlamydial infection of pelviperitoneum and other genitourinary organs,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A5619,Other chlamydial genitourinary infection,Chlamydial infection of pelviperitoneum and other genitourinary organs,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A561,Chlamydial infection of pelviperitoneum and other genitourinary organs,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A562,Chlamydial infection of genitourinary tract unspecified,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A563,Chlamydial infection of anus and rectum,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A564,Chlamydial infection of pharynx,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A568,Sexually transmitted chlamydial infection of other sites,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission
+A57,Chancroid,,Chancroid,Infections with a predominantly sexual mode of transmission
+A58,Granuloma inguinale,,Granuloma inguinale,Infections with a predominantly sexual mode of transmission
+A5900,Urogenital trichomoniasis unspecified,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission
+A5901,Trichomonal vulvovaginitis,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission
+A5902,Trichomonal prostatitis,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission
+A5903,Trichomonal cystitis and urethritis,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission
+A5909,Other urogenital trichomoniasis,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission
+A590,Urogenital trichomoniasis,,Trichomoniasis,Infections with a predominantly sexual mode of transmission
+A598,Trichomoniasis of other sites,,Trichomoniasis,Infections with a predominantly sexual mode of transmission
+A599,Trichomoniasis unspecified,,Trichomoniasis,Infections with a predominantly sexual mode of transmission
+A6000,Herpesviral infection of urogenital system unspecified,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission
+A6001,Herpesviral infection of penis,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission
+A6002,Herpesviral infection of other male genital organs,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission
+A6003,Herpesviral cervicitis,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission
+A6004,Herpesviral vulvovaginitis,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission
+A6009,Herpesviral infection of other urogenital tract,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission
+A600,Herpesviral infection of genitalia and urogenital tract,,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission
+A601,Herpesviral infection of perianal skin and rectum,,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission
+A609,Anogenital herpesviral infection unspecified,,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission
+A630,Anogenital (venereal) warts,,Other predominantly sexually transmitted diseases not elsewhere classified,Infections with a predominantly sexual mode of transmission
+A638,Other specified predominantly sexually transmitted diseases,,Other predominantly sexually transmitted diseases not elsewhere classified,Infections with a predominantly sexual mode of transmission
+A64,Unspecified sexually transmitted disease,,Unspecified sexually transmitted disease,Infections with a predominantly sexual mode of transmission
+A65,Nonvenereal syphilis,,Nonvenereal syphilis,Other spirochetal diseases
+A660,Initial lesions of yaws,,Yaws,Other spirochetal diseases
+A661,Multiple papillomata and wet crab yaws,,Yaws,Other spirochetal diseases
+A662,Other early skin lesions of yaws,,Yaws,Other spirochetal diseases
+A663,Hyperkeratosis of yaws,,Yaws,Other spirochetal diseases
+A664,Gummata and ulcers of yaws,,Yaws,Other spirochetal diseases
+A665,Gangosa,,Yaws,Other spirochetal diseases
+A666,Bone and joint lesions of yaws,,Yaws,Other spirochetal diseases
+A667,Other manifestations of yaws,,Yaws,Other spirochetal diseases
+A668,Latent yaws,,Yaws,Other spirochetal diseases
+A669,Yaws unspecified,,Yaws,Other spirochetal diseases
+A670,Primary lesions of pinta,,Pinta [carate],Other spirochetal diseases
+A671,Intermediate lesions of pinta,,Pinta [carate],Other spirochetal diseases
+A672,Late lesions of pinta,,Pinta [carate],Other spirochetal diseases
+A673,Mixed lesions of pinta,,Pinta [carate],Other spirochetal diseases
+A679,Pinta unspecified,,Pinta [carate],Other spirochetal diseases
+A680,Louse-borne relapsing fever,,Relapsing fevers,Other spirochetal diseases
+A681,Tick-borne relapsing fever,,Relapsing fevers,Other spirochetal diseases
+A689,Relapsing fever unspecified,,Relapsing fevers,Other spirochetal diseases
+A690,Necrotizing ulcerative stomatitis,,Other spirochaetal infections,Other spirochetal diseases
+A691,Other Vincent's infections,,Other spirochaetal infections,Other spirochetal diseases
+A6920,Lyme disease unspecified,Lyme disease,Other spirochaetal infections,Other spirochetal diseases
+A6921,Meningitis due to Lyme disease,Lyme disease,Other spirochaetal infections,Other spirochetal diseases
+A6922,Other neurologic disorders in Lyme disease,Lyme disease,Other spirochaetal infections,Other spirochetal diseases
+A6923,Arthritis due to Lyme disease,Lyme disease,Other spirochaetal infections,Other spirochetal diseases
+A6929,Other conditions associated with Lyme disease,Lyme disease,Other spirochaetal infections,Other spirochetal diseases
+A692,Lyme disease,,Other spirochaetal infections,Other spirochetal diseases
+A698,Other specified spirochetal infections,,Other spirochaetal infections,Other spirochetal diseases
+A699,Spirochetal infection unspecified,,Other spirochaetal infections,Other spirochetal diseases
+A70,Chlamydia psittaci infection,,Chlamydia psittaci infection,Other diseases caused by chlamydiae
+A710,Initial stage of trachoma,,Trachoma,Other diseases caused by chlamydiae
+A711,Active stage of trachoma,,Trachoma,Other diseases caused by chlamydiae
+A719,Trachoma unspecified,,Trachoma,Other diseases caused by chlamydiae
+A740,Chlamydial conjunctivitis,,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae
+A7481,Chlamydial peritonitis,Other chlamydial diseases,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae
+A7489,Other chlamydial diseases,Other chlamydial diseases,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae
+A748,Other chlamydial diseases,,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae
+A749,Chlamydial infection unspecified,,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae
+A750,Epidemic louse-borne typhus fever due to Rickettsia prowazekii,,Typhus fever,Rickettsioses
+A751,Recrudescent typhus [Brill's disease],,Typhus fever,Rickettsioses
+A752,Typhus fever due to Rickettsia typhi,,Typhus fever,Rickettsioses
+A753,Typhus fever due to Rickettsia tsutsugamushi,,Typhus fever,Rickettsioses
+A759,Typhus fever unspecified,,Typhus fever,Rickettsioses
+A770,Spotted fever due to Rickettsia rickettsii,,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A771,Spotted fever due to Rickettsia conorii,,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A772,Spotted fever due to Rickettsia siberica,,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A773,Spotted fever due to Rickettsia australis,,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A7740,Ehrlichiosis unspecified,Ehrlichiosis,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A7741,Ehrlichiosis chafeensis [E. chafeensis],Ehrlichiosis,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A7749,Other ehrlichiosis,Ehrlichiosis,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A774,Ehrlichiosis,,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A778,Other spotted fevers,,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A779,Spotted fever unspecified,,Spotted fever [tick-borne rickettsioses],Rickettsioses
+A78,Q fever,,Q fever,Rickettsioses
+A790,Trench fever,,Other rickettsioses,Rickettsioses
+A791,Rickettsialpox due to Rickettsia akari,,Other rickettsioses,Rickettsioses
+A7981,Rickettsiosis due to Ehrlichia sennetsu,Other specified rickettsioses,Other rickettsioses,Rickettsioses
+A7982,Anaplasmosis [A. phagocytophilum],Other specified rickettsioses,Other rickettsioses,Rickettsioses
+A7989,Other specified rickettsioses,Other specified rickettsioses,Other rickettsioses,Rickettsioses
+A798,Other specified rickettsioses,,Other rickettsioses,Rickettsioses
+A799,Rickettsiosis unspecified,,Other rickettsioses,Rickettsioses
+A800,Acute paralytic poliomyelitis vaccine-associated,,Acute poliomyelitis,Viral and prion infections of the central nervous system
+A801,Acute paralytic poliomyelitis wild virus imported,,Acute poliomyelitis,Viral and prion infections of the central nervous system
+A802,Acute paralytic poliomyelitis wild virus indigenous,,Acute poliomyelitis,Viral and prion infections of the central nervous system
+A8030,Acute paralytic poliomyelitis unspecified,Acute paralytic poliomyelitis other and unspecified,Acute poliomyelitis,Viral and prion infections of the central nervous system
+A8039,Other acute paralytic poliomyelitis,Acute paralytic poliomyelitis other and unspecified,Acute poliomyelitis,Viral and prion infections of the central nervous system
+A803,Acute paralytic poliomyelitis other and unspecified,,Acute poliomyelitis,Viral and prion infections of the central nervous system
+A804,Acute nonparalytic poliomyelitis,,Acute poliomyelitis,Viral and prion infections of the central nervous system
+A809,Acute poliomyelitis unspecified,,Acute poliomyelitis,Viral and prion infections of the central nervous system
+A8100,Creutzfeldt-Jakob disease unspecified,Creutzfeldt-Jakob disease,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A8101,Variant Creutzfeldt-Jakob disease,Creutzfeldt-Jakob disease,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A8109,Other Creutzfeldt-Jakob disease,Creutzfeldt-Jakob disease,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A810,Creutzfeldt-Jakob disease,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A811,Subacute sclerosing panencephalitis,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A812,Progressive multifocal leukoencephalopathy,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A8181,Kuru,Other atypical virus infections of central nervous system,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A8182,Gerstmann-Sträussler-Scheinker syndrome,Other atypical virus infections of central nervous system,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A8183,Fatal familial insomnia,Other atypical virus infections of central nervous system,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A8189,Other atypical virus infections of central nervous system,Other atypical virus infections of central nervous system,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A818,Other atypical virus infections of central nervous system,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A819,Atypical virus infection of central nervous system unspecified,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system
+A820,Sylvatic rabies,,Rabies,Viral and prion infections of the central nervous system
+A821,Urban rabies,,Rabies,Viral and prion infections of the central nervous system
+A829,Rabies unspecified,,Rabies,Viral and prion infections of the central nervous system
+A830,Japanese encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system
+A831,Western equine encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system
+A832,Eastern equine encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system
+A833,St Louis encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system
+A834,Australian encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system
+A835,California encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system
+A836,Rocio virus disease,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system
+A838,Other mosquito-borne viral encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system
+A839,Mosquito-borne viral encephalitis unspecified,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system
+A840,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis],,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system
+A841,Central European tick-borne encephalitis,,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system
+A8481,Powassan virus disease,Other tick-borne viral encephalitis,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system
+A8489,Other tick-borne viral encephalitis,Other tick-borne viral encephalitis,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system
+A848,Other tick-borne viral encephalitis,,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system
+A849,Tick-borne viral encephalitis unspecified,,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system
+A850,Enteroviral encephalitis,,Other viral encephalitis not elsewhere classified,Viral and prion infections of the central nervous system
+A851,Adenoviral encephalitis,,Other viral encephalitis not elsewhere classified,Viral and prion infections of the central nervous system
+A852,Arthropod-borne viral encephalitis unspecified,,Other viral encephalitis not elsewhere classified,Viral and prion infections of the central nervous system
+A858,Other specified viral encephalitis,,Other viral encephalitis not elsewhere classified,Viral and prion infections of the central nervous system
+A86,Unspecified viral encephalitis,,Unspecified viral encephalitis,Viral and prion infections of the central nervous system
+A870,Enteroviral meningitis,,Viral meningitis,Viral and prion infections of the central nervous system
+A871,Adenoviral meningitis,,Viral meningitis,Viral and prion infections of the central nervous system
+A872,Lymphocytic choriomeningitis,,Viral meningitis,Viral and prion infections of the central nervous system
+A878,Other viral meningitis,,Viral meningitis,Viral and prion infections of the central nervous system
+A879,Viral meningitis unspecified,,Viral meningitis,Viral and prion infections of the central nervous system
+A880,Enteroviral exanthematous fever [Boston exanthem],,Other viral infections of central nervous system not elsewhere classified,Viral and prion infections of the central nervous system
+A881,Epidemic vertigo,,Other viral infections of central nervous system not elsewhere classified,Viral and prion infections of the central nervous system
+A888,Other specified viral infections of central nervous system,,Other viral infections of central nervous system not elsewhere classified,Viral and prion infections of the central nervous system
+A89,Unspecified viral infection of central nervous system,,Unspecified viral infection of central nervous system,Viral and prion infections of the central nervous system
+A920,Chikungunya virus disease,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A921,O'nyong-nyong fever,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A922,Venezuelan equine fever,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A9230,West Nile virus infection unspecified,West Nile virus infection,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A9231,West Nile virus infection with encephalitis,West Nile virus infection,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A9232,West Nile virus infection with other neurologic manifestation,West Nile virus infection,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A9239,West Nile virus infection with other complications,West Nile virus infection,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A923,West Nile virus infection,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A924,Rift Valley fever,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A925,Zika virus disease,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A928,Other specified mosquito-borne viral fevers,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A929,Mosquito-borne viral fever unspecified,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A930,Oropouche virus disease,,Other arthropod-borne viral fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A931,Sandfly fever,,Other arthropod-borne viral fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A932,Colorado tick fever,,Other arthropod-borne viral fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A938,Other specified arthropod-borne viral fevers,,Other arthropod-borne viral fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A94,Unspecified arthropod-borne viral fever,,Unspecified arthropod-borne viral fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A950,Sylvatic yellow fever,,Yellow fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A951,Urban yellow fever,,Yellow fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A959,Yellow fever unspecified,,Yellow fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A960,Junin hemorrhagic fever,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A961,Machupo hemorrhagic fever,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A962,Lassa fever,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A968,Other arenaviral hemorrhagic fevers,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A969,Arenaviral hemorrhagic fever unspecified,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A980,Crimean-Congo hemorrhagic fever,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A981,Omsk hemorrhagic fever,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A982,Kyasanur Forest disease,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A983,Marburg virus disease,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A984,Ebola virus disease,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A985,Hemorrhagic fever with renal syndrome,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A988,Other specified viral hemorrhagic fevers,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers
+A99,Unspecified viral haemorrhagic fever,,Unspecified viral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers
+B000,Eczema herpeticum,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B001,Herpesviral vesicular dermatitis,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B002,Herpesviral gingivostomatitis and pharyngotonsillitis,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B003,Herpesviral meningitis,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B004,Herpesviral encephalitis,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B0050,Herpesviral ocular disease unspecified,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B0051,Herpesviral iridocyclitis,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B0052,Herpesviral keratitis,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B0053,Herpesviral conjunctivitis,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B0059,Other herpesviral disease of eye,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B005,Herpesviral ocular disease,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B007,Disseminated herpesviral disease,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B0081,Herpesviral hepatitis,Other forms of herpesviral infections,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B0082,Herpes simplex myelitis,Other forms of herpesviral infections,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B0089,Other herpesviral infection,Other forms of herpesviral infections,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B008,Other forms of herpesviral infections,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B009,Herpesviral infection unspecified,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions
+B010,Varicella meningitis,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions
+B0111,Varicella encephalitis and encephalomyelitis,Varicella encephalitis myelitis and encephalomyelitis,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions
+B0112,Varicella myelitis,Varicella encephalitis myelitis and encephalomyelitis,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions
+B011,Varicella encephalitis myelitis and encephalomyelitis,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions
+B012,Varicella pneumonia,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions
+B0181,Varicella keratitis,Varicella with other complications,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions
+B0189,Other varicella complications,Varicella with other complications,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions
+B018,Varicella with other complications,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions
+B019,Varicella without complication,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions
+B020,Zoster encephalitis,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B021,Zoster meningitis,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0221,Postherpetic geniculate ganglionitis,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0222,Postherpetic trigeminal neuralgia,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0223,Postherpetic polyneuropathy,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0224,Postherpetic myelitis,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0229,Other postherpetic nervous system involvement,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B022,Zoster with other nervous system involvement,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0230,Zoster ocular disease unspecified,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0231,Zoster conjunctivitis,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0232,Zoster iridocyclitis,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0233,Zoster keratitis,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0234,Zoster scleritis,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B0239,Other herpes zoster eye disease,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B023,Zoster ocular disease,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B027,Disseminated zoster,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B028,Zoster with other complications,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B029,Zoster without complications,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions
+B03,Smallpox,,Smallpox,Viral infections characterized by skin and mucous membrane lesions
+B04,Monkeypox,,Monkeypox,Viral infections characterized by skin and mucous membrane lesions
+B050,Measles complicated by encephalitis,,Measles,Viral infections characterized by skin and mucous membrane lesions
+B051,Measles complicated by meningitis,,Measles,Viral infections characterized by skin and mucous membrane lesions
+B052,Measles complicated by pneumonia,,Measles,Viral infections characterized by skin and mucous membrane lesions
+B053,Measles complicated by otitis media,,Measles,Viral infections characterized by skin and mucous membrane lesions
+B054,Measles with intestinal complications,,Measles,Viral infections characterized by skin and mucous membrane lesions
+B0581,Measles keratitis and keratoconjunctivitis,Measles with other complications,Measles,Viral infections characterized by skin and mucous membrane lesions
+B0589,Other measles complications,Measles with other complications,Measles,Viral infections characterized by skin and mucous membrane lesions
+B058,Measles with other complications,,Measles,Viral infections characterized by skin and mucous membrane lesions
+B059,Measles without complication,,Measles,Viral infections characterized by skin and mucous membrane lesions
+B0600,Rubella with neurological complication unspecified,Rubella with neurological complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B0601,Rubella encephalitis,Rubella with neurological complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B0602,Rubella meningitis,Rubella with neurological complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B0609,Other neurological complications of rubella,Rubella with neurological complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B060,Rubella with neurological complications,,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B0681,Rubella pneumonia,Rubella with other complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B0682,Rubella arthritis,Rubella with other complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B0689,Other rubella complications,Rubella with other complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B068,Rubella with other complications,,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B069,Rubella without complication,,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions
+B070,Plantar wart,,Viral warts,Viral infections characterized by skin and mucous membrane lesions
+B078,Other viral warts,,Viral warts,Viral infections characterized by skin and mucous membrane lesions
+B079,Viral wart unspecified,,Viral warts,Viral infections characterized by skin and mucous membrane lesions
+B0801,Cowpox and vaccinia not from vaccine,Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0802,Orf virus disease,Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0803,Pseudocowpox [milker's node],Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0804,Paravaccinia unspecified,Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0809,Other orthopoxvirus infections,Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B080,Other orthopoxvirus infections,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B081,Molluscum contagiosum,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0820,Exanthema subitum [sixth disease] unspecified,Exanthema subitum [sixth disease],Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0821,Exanthema subitum [sixth disease] due to human herpesvirus 6,Exanthema subitum [sixth disease],Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0822,Exanthema subitum [sixth disease] due to human herpesvirus 7,Exanthema subitum [sixth disease],Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B082,Exanthema subitum [sixth disease],,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B083,Erythema infectiosum [fifth disease],,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B084,Enteroviral vesicular stomatitis with exanthem,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B085,Enteroviral vesicular pharyngitis,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0860,Parapoxvirus infection unspecified,Parapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0861,Bovine stomatitis,Parapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0862,Sealpox,Parapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0869,Other parapoxvirus infections,Parapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B086,Parapoxvirus infections,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0870,Yatapoxvirus infection unspecified,Yatapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0871,Tanapox virus disease,Yatapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0872,Yaba pox virus disease,Yatapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B0879,Other yatapoxvirus infections,Yatapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B087,Yatapoxvirus infections,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B088,Other specified viral infections characterized by skin and mucous membrane lesions,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,,Unspecified viral infection characterized by skin and mucous membrane lesions,Viral infections characterized by skin and mucous membrane lesions
+B150,Hepatitis A with hepatic coma,,Acute hepatitis A,Viral hepatitis
+B159,Hepatitis A without hepatic coma,,Acute hepatitis A,Viral hepatitis
+B160,Acute hepatitis B with delta-agent with hepatic coma,,Acute hepatitis B,Viral hepatitis
+B161,Acute hepatitis B with delta-agent without hepatic coma,,Acute hepatitis B,Viral hepatitis
+B162,Acute hepatitis B without delta-agent with hepatic coma,,Acute hepatitis B,Viral hepatitis
+B169,Acute hepatitis B without delta-agent and without hepatic coma,,Acute hepatitis B,Viral hepatitis
+B170,Acute delta-(super) infection of hepatitis B carrier,,Other acute viral hepatitis,Viral hepatitis
+B1710,Acute hepatitis C without hepatic coma,Acute hepatitis C,Other acute viral hepatitis,Viral hepatitis
+B1711,Acute hepatitis C with hepatic coma,Acute hepatitis C,Other acute viral hepatitis,Viral hepatitis
+B171,Acute hepatitis C,,Other acute viral hepatitis,Viral hepatitis
+B172,Acute hepatitis E,,Other acute viral hepatitis,Viral hepatitis
+B178,Other specified acute viral hepatitis,,Other acute viral hepatitis,Viral hepatitis
+B179,Acute viral hepatitis unspecified,,Other acute viral hepatitis,Viral hepatitis
+B180,Chronic viral hepatitis B with delta-agent,,Chronic viral hepatitis,Viral hepatitis
+B181,Chronic viral hepatitis B without delta-agent,,Chronic viral hepatitis,Viral hepatitis
+B182,Chronic viral hepatitis C,,Chronic viral hepatitis,Viral hepatitis
+B188,Other chronic viral hepatitis,,Chronic viral hepatitis,Viral hepatitis
+B189,Chronic viral hepatitis unspecified,,Chronic viral hepatitis,Viral hepatitis
+B190,Unspecified viral hepatitis with hepatic coma,,Unspecified viral hepatitis,Viral hepatitis
+B1910,Unspecified viral hepatitis B without hepatic coma,Unspecified viral hepatitis B,Unspecified viral hepatitis,Viral hepatitis
+B1911,Unspecified viral hepatitis B with hepatic coma,Unspecified viral hepatitis B,Unspecified viral hepatitis,Viral hepatitis
+B191,Unspecified viral hepatitis B,,Unspecified viral hepatitis,Viral hepatitis
+B1920,Unspecified viral hepatitis C without hepatic coma,Unspecified viral hepatitis C,Unspecified viral hepatitis,Viral hepatitis
+B1921,Unspecified viral hepatitis C with hepatic coma,Unspecified viral hepatitis C,Unspecified viral hepatitis,Viral hepatitis
+B192,Unspecified viral hepatitis C,,Unspecified viral hepatitis,Viral hepatitis
+B199,Unspecified viral hepatitis without hepatic coma,,Unspecified viral hepatitis,Viral hepatitis
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,Human immunodeficiency virus [HIV] disease
+B250,Cytomegaloviral pneumonitis,,Cytomegaloviral disease,Other viral diseases
+B251,Cytomegaloviral hepatitis,,Cytomegaloviral disease,Other viral diseases
+B252,Cytomegaloviral pancreatitis,,Cytomegaloviral disease,Other viral diseases
+B258,Other cytomegaloviral diseases,,Cytomegaloviral disease,Other viral diseases
+B259,Cytomegaloviral disease unspecified,,Cytomegaloviral disease,Other viral diseases
+B260,Mumps orchitis,,Mumps,Other viral diseases
+B261,Mumps meningitis,,Mumps,Other viral diseases
+B262,Mumps encephalitis,,Mumps,Other viral diseases
+B263,Mumps pancreatitis,,Mumps,Other viral diseases
+B2681,Mumps hepatitis,Mumps with other complications,Mumps,Other viral diseases
+B2682,Mumps myocarditis,Mumps with other complications,Mumps,Other viral diseases
+B2683,Mumps nephritis,Mumps with other complications,Mumps,Other viral diseases
+B2684,Mumps polyneuropathy,Mumps with other complications,Mumps,Other viral diseases
+B2685,Mumps arthritis,Mumps with other complications,Mumps,Other viral diseases
+B2689,Other mumps complications,Mumps with other complications,Mumps,Other viral diseases
+B268,Mumps with other complications,,Mumps,Other viral diseases
+B269,Mumps without complication,,Mumps,Other viral diseases
+B2700,Gammaherpesviral mononucleosis without complication,Gammaherpesviral mononucleosis,Infectious mononucleosis,Other viral diseases
+B2701,Gammaherpesviral mononucleosis with polyneuropathy,Gammaherpesviral mononucleosis,Infectious mononucleosis,Other viral diseases
+B2702,Gammaherpesviral mononucleosis with meningitis,Gammaherpesviral mononucleosis,Infectious mononucleosis,Other viral diseases
+B2709,Gammaherpesviral mononucleosis with other complications,Gammaherpesviral mononucleosis,Infectious mononucleosis,Other viral diseases
+B270,Gammaherpesviral mononucleosis,,Infectious mononucleosis,Other viral diseases
+B2710,Cytomegaloviral mononucleosis without complications,Cytomegaloviral mononucleosis,Infectious mononucleosis,Other viral diseases
+B2711,Cytomegaloviral mononucleosis with polyneuropathy,Cytomegaloviral mononucleosis,Infectious mononucleosis,Other viral diseases
+B2712,Cytomegaloviral mononucleosis with meningitis,Cytomegaloviral mononucleosis,Infectious mononucleosis,Other viral diseases
+B2719,Cytomegaloviral mononucleosis with other complication,Cytomegaloviral mononucleosis,Infectious mononucleosis,Other viral diseases
+B271,Cytomegaloviral mononucleosis,,Infectious mononucleosis,Other viral diseases
+B2780,Other infectious mononucleosis without complication,Other infectious mononucleosis,Infectious mononucleosis,Other viral diseases
+B2781,Other infectious mononucleosis with polyneuropathy,Other infectious mononucleosis,Infectious mononucleosis,Other viral diseases
+B2782,Other infectious mononucleosis with meningitis,Other infectious mononucleosis,Infectious mononucleosis,Other viral diseases
+B2789,Other infectious mononucleosis with other complication,Other infectious mononucleosis,Infectious mononucleosis,Other viral diseases
+B278,Other infectious mononucleosis,,Infectious mononucleosis,Other viral diseases
+B2790,Infectious mononucleosis unspecified without complication,Infectious mononucleosis unspecified,Infectious mononucleosis,Other viral diseases
+B2791,Infectious mononucleosis unspecified with polyneuropathy,Infectious mononucleosis unspecified,Infectious mononucleosis,Other viral diseases
+B2792,Infectious mononucleosis unspecified with meningitis,Infectious mononucleosis unspecified,Infectious mononucleosis,Other viral diseases
+B2799,Infectious mononucleosis unspecified with other complication,Infectious mononucleosis unspecified,Infectious mononucleosis,Other viral diseases
+B279,Infectious mononucleosis unspecified,,Infectious mononucleosis,Other viral diseases
+B300,Keratoconjunctivitis due to adenovirus,,Viral conjunctivitis,Other viral diseases
+B301,Conjunctivitis due to adenovirus,,Viral conjunctivitis,Other viral diseases
+B302,Viral pharyngoconjunctivitis,,Viral conjunctivitis,Other viral diseases
+B303,Acute epidemic hemorrhagic conjunctivitis (enteroviral),,Viral conjunctivitis,Other viral diseases
+B308,Other viral conjunctivitis,,Viral conjunctivitis,Other viral diseases
+B309,Viral conjunctivitis unspecified,,Viral conjunctivitis,Other viral diseases
+B330,Epidemic myalgia,,Other viral diseases not elsewhere classified,Other viral diseases
+B331,Ross River disease,,Other viral diseases not elsewhere classified,Other viral diseases
+B3320,Viral carditis unspecified,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases
+B3321,Viral endocarditis,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases
+B3322,Viral myocarditis,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases
+B3323,Viral pericarditis,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases
+B3324,Viral cardiomyopathy,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases
+B332,Viral carditis,,Other viral diseases not elsewhere classified,Other viral diseases
+B333,Retrovirus infections not elsewhere classified,,Other viral diseases not elsewhere classified,Other viral diseases
+B334,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS],,Other viral diseases not elsewhere classified,Other viral diseases
+B338,Other specified viral diseases,,Other viral diseases not elsewhere classified,Other viral diseases
+B340,Adenovirus infection unspecified,,Viral infection of unspecified site,Other viral diseases
+B341,Enterovirus infection unspecified,,Viral infection of unspecified site,Other viral diseases
+B342,Coronavirus infection unspecified,,Viral infection of unspecified site,Other viral diseases
+B343,Parvovirus infection unspecified,,Viral infection of unspecified site,Other viral diseases
+B344,Papovavirus infection unspecified,,Viral infection of unspecified site,Other viral diseases
+B348,Other viral infections of unspecified site,,Viral infection of unspecified site,Other viral diseases
+B349,Viral infection unspecified,,Viral infection of unspecified site,Other viral diseases
+B350,Tinea barbae and tinea capitis,,Dermatophytosis,Mycoses
+B351,Tinea unguium,,Dermatophytosis,Mycoses
+B352,Tinea manuum,,Dermatophytosis,Mycoses
+B353,Tinea pedis,,Dermatophytosis,Mycoses
+B354,Tinea corporis,,Dermatophytosis,Mycoses
+B355,Tinea imbricata,,Dermatophytosis,Mycoses
+B356,Tinea cruris,,Dermatophytosis,Mycoses
+B358,Other dermatophytoses,,Dermatophytosis,Mycoses
+B359,Dermatophytosis unspecified,,Dermatophytosis,Mycoses
+B360,Pityriasis versicolor,,Other superficial mycoses,Mycoses
+B361,Tinea nigra,,Other superficial mycoses,Mycoses
+B362,White piedra,,Other superficial mycoses,Mycoses
+B363,Black piedra,,Other superficial mycoses,Mycoses
+B368,Other specified superficial mycoses,,Other superficial mycoses,Mycoses
+B369,Superficial mycosis unspecified,,Other superficial mycoses,Mycoses
+B370,Candidal stomatitis,,Candidiasis,Mycoses
+B371,Pulmonary candidiasis,,Candidiasis,Mycoses
+B372,Candidiasis of skin and nail,,Candidiasis,Mycoses
+B373,Candidiasis of vulva and vagina,,Candidiasis,Mycoses
+B3741,Candidal cystitis and urethritis,Candidiasis of other urogenital sites,Candidiasis,Mycoses
+B3742,Candidal balanitis,Candidiasis of other urogenital sites,Candidiasis,Mycoses
+B3749,Other urogenital candidiasis,Candidiasis of other urogenital sites,Candidiasis,Mycoses
+B374,Candidiasis of other urogenital sites,,Candidiasis,Mycoses
+B375,Candidal meningitis,,Candidiasis,Mycoses
+B376,Candidal endocarditis,,Candidiasis,Mycoses
+B377,Candidal sepsis,,Candidiasis,Mycoses
+B3781,Candidal esophagitis,Candidiasis of other sites,Candidiasis,Mycoses
+B3782,Candidal enteritis,Candidiasis of other sites,Candidiasis,Mycoses
+B3783,Candidal cheilitis,Candidiasis of other sites,Candidiasis,Mycoses
+B3784,Candidal otitis externa,Candidiasis of other sites,Candidiasis,Mycoses
+B3789,Other sites of candidiasis,Candidiasis of other sites,Candidiasis,Mycoses
+B378,Candidiasis of other sites,,Candidiasis,Mycoses
+B379,Candidiasis unspecified,,Candidiasis,Mycoses
+B380,Acute pulmonary coccidioidomycosis,,Coccidioidomycosis,Mycoses
+B381,Chronic pulmonary coccidioidomycosis,,Coccidioidomycosis,Mycoses
+B382,Pulmonary coccidioidomycosis unspecified,,Coccidioidomycosis,Mycoses
+B383,Cutaneous coccidioidomycosis,,Coccidioidomycosis,Mycoses
+B384,Coccidioidomycosis meningitis,,Coccidioidomycosis,Mycoses
+B387,Disseminated coccidioidomycosis,,Coccidioidomycosis,Mycoses
+B3881,Prostatic coccidioidomycosis,Other forms of coccidioidomycosis,Coccidioidomycosis,Mycoses
+B3889,Other forms of coccidioidomycosis,Other forms of coccidioidomycosis,Coccidioidomycosis,Mycoses
+B388,Other forms of coccidioidomycosis,,Coccidioidomycosis,Mycoses
+B389,Coccidioidomycosis unspecified,,Coccidioidomycosis,Mycoses
+B390,Acute pulmonary histoplasmosis capsulati,,Histoplasmosis,Mycoses
+B391,Chronic pulmonary histoplasmosis capsulati,,Histoplasmosis,Mycoses
+B392,Pulmonary histoplasmosis capsulati unspecified,,Histoplasmosis,Mycoses
+B393,Disseminated histoplasmosis capsulati,,Histoplasmosis,Mycoses
+B394,Histoplasmosis capsulati unspecified,,Histoplasmosis,Mycoses
+B395,Histoplasmosis duboisii,,Histoplasmosis,Mycoses
+B399,Histoplasmosis unspecified,,Histoplasmosis,Mycoses
+B400,Acute pulmonary blastomycosis,,Blastomycosis,Mycoses
+B401,Chronic pulmonary blastomycosis,,Blastomycosis,Mycoses
+B402,Pulmonary blastomycosis unspecified,,Blastomycosis,Mycoses
+B403,Cutaneous blastomycosis,,Blastomycosis,Mycoses
+B407,Disseminated blastomycosis,,Blastomycosis,Mycoses
+B4081,Blastomycotic meningoencephalitis,Other forms of blastomycosis,Blastomycosis,Mycoses
+B4089,Other forms of blastomycosis,Other forms of blastomycosis,Blastomycosis,Mycoses
+B408,Other forms of blastomycosis,,Blastomycosis,Mycoses
+B409,Blastomycosis unspecified,,Blastomycosis,Mycoses
+B410,Pulmonary paracoccidioidomycosis,,Paracoccidioidomycosis,Mycoses
+B417,Disseminated paracoccidioidomycosis,,Paracoccidioidomycosis,Mycoses
+B418,Other forms of paracoccidioidomycosis,,Paracoccidioidomycosis,Mycoses
+B419,Paracoccidioidomycosis unspecified,,Paracoccidioidomycosis,Mycoses
+B420,Pulmonary sporotrichosis,,Sporotrichosis,Mycoses
+B421,Lymphocutaneous sporotrichosis,,Sporotrichosis,Mycoses
+B427,Disseminated sporotrichosis,,Sporotrichosis,Mycoses
+B4281,Cerebral sporotrichosis,Other forms of sporotrichosis,Sporotrichosis,Mycoses
+B4282,Sporotrichosis arthritis,Other forms of sporotrichosis,Sporotrichosis,Mycoses
+B4289,Other forms of sporotrichosis,Other forms of sporotrichosis,Sporotrichosis,Mycoses
+B428,Other forms of sporotrichosis,,Sporotrichosis,Mycoses
+B429,Sporotrichosis unspecified,,Sporotrichosis,Mycoses
+B430,Cutaneous chromomycosis,,Chromomycosis and phaeomycotic abscess,Mycoses
+B431,Pheomycotic brain abscess,,Chromomycosis and phaeomycotic abscess,Mycoses
+B432,Subcutaneous pheomycotic abscess and cyst,,Chromomycosis and phaeomycotic abscess,Mycoses
+B438,Other forms of chromomycosis,,Chromomycosis and phaeomycotic abscess,Mycoses
+B439,Chromomycosis unspecified,,Chromomycosis and phaeomycotic abscess,Mycoses
+B440,Invasive pulmonary aspergillosis,,Aspergillosis,Mycoses
+B441,Other pulmonary aspergillosis,,Aspergillosis,Mycoses
+B442,Tonsillar aspergillosis,,Aspergillosis,Mycoses
+B447,Disseminated aspergillosis,,Aspergillosis,Mycoses
+B4481,Allergic bronchopulmonary aspergillosis,Other forms of aspergillosis,Aspergillosis,Mycoses
+B4489,Other forms of aspergillosis,Other forms of aspergillosis,Aspergillosis,Mycoses
+B448,Other forms of aspergillosis,,Aspergillosis,Mycoses
+B449,Aspergillosis unspecified,,Aspergillosis,Mycoses
+B450,Pulmonary cryptococcosis,,Cryptococcosis,Mycoses
+B451,Cerebral cryptococcosis,,Cryptococcosis,Mycoses
+B452,Cutaneous cryptococcosis,,Cryptococcosis,Mycoses
+B453,Osseous cryptococcosis,,Cryptococcosis,Mycoses
+B457,Disseminated cryptococcosis,,Cryptococcosis,Mycoses
+B458,Other forms of cryptococcosis,,Cryptococcosis,Mycoses
+B459,Cryptococcosis unspecified,,Cryptococcosis,Mycoses
+B460,Pulmonary mucormycosis,,Zygomycosis,Mycoses
+B461,Rhinocerebral mucormycosis,,Zygomycosis,Mycoses
+B462,Gastrointestinal mucormycosis,,Zygomycosis,Mycoses
+B463,Cutaneous mucormycosis,,Zygomycosis,Mycoses
+B464,Disseminated mucormycosis,,Zygomycosis,Mycoses
+B465,Mucormycosis unspecified,,Zygomycosis,Mycoses
+B468,Other zygomycoses,,Zygomycosis,Mycoses
+B469,Zygomycosis unspecified,,Zygomycosis,Mycoses
+B470,Eumycetoma,,Mycetoma,Mycoses
+B471,Actinomycetoma,,Mycetoma,Mycoses
+B479,Mycetoma unspecified,,Mycetoma,Mycoses
+B480,Lobomycosis,,Other mycoses not elsewhere classified,Mycoses
+B481,Rhinosporidiosis,,Other mycoses not elsewhere classified,Mycoses
+B482,Allescheriasis,,Other mycoses not elsewhere classified,Mycoses
+B483,Geotrichosis,,Other mycoses not elsewhere classified,Mycoses
+B484,Penicillosis,,Other mycoses not elsewhere classified,Mycoses
+B488,Other specified mycoses,,Other mycoses not elsewhere classified,Mycoses
+B49,Unspecified mycosis,,Unspecified mycosis,Mycoses
+B500,Plasmodium falciparum malaria with cerebral complications,,Plasmodium falciparum malaria,Protozoal diseases
+B508,Other severe and complicated Plasmodium falciparum malaria,,Plasmodium falciparum malaria,Protozoal diseases
+B509,Plasmodium falciparum malaria unspecified,,Plasmodium falciparum malaria,Protozoal diseases
+B510,Plasmodium vivax malaria with rupture of spleen,,Plasmodium vivax malaria,Protozoal diseases
+B518,Plasmodium vivax malaria with other complications,,Plasmodium vivax malaria,Protozoal diseases
+B519,Plasmodium vivax malaria without complication,,Plasmodium vivax malaria,Protozoal diseases
+B520,Plasmodium malariae malaria with nephropathy,,Plasmodium malariae malaria,Protozoal diseases
+B528,Plasmodium malariae malaria with other complications,,Plasmodium malariae malaria,Protozoal diseases
+B529,Plasmodium malariae malaria without complication,,Plasmodium malariae malaria,Protozoal diseases
+B530,Plasmodium ovale malaria,,Other parasitologically confirmed malaria,Protozoal diseases
+B531,Malaria due to simian plasmodia,,Other parasitologically confirmed malaria,Protozoal diseases
+B538,Other malaria not elsewhere classified,,Other parasitologically confirmed malaria,Protozoal diseases
+B54,Unspecified malaria,,Unspecified malaria,Protozoal diseases
+B550,Visceral leishmaniasis,,Leishmaniasis,Protozoal diseases
+B551,Cutaneous leishmaniasis,,Leishmaniasis,Protozoal diseases
+B552,Mucocutaneous leishmaniasis,,Leishmaniasis,Protozoal diseases
+B559,Leishmaniasis unspecified,,Leishmaniasis,Protozoal diseases
+B560,Gambiense trypanosomiasis,,African trypanosomiasis,Protozoal diseases
+B561,Rhodesiense trypanosomiasis,,African trypanosomiasis,Protozoal diseases
+B569,African trypanosomiasis unspecified,,African trypanosomiasis,Protozoal diseases
+B570,Acute Chagas' disease with heart involvement,,Chagas disease,Protozoal diseases
+B571,Acute Chagas' disease without heart involvement,,Chagas disease,Protozoal diseases
+B572,Chagas' disease (chronic) with heart involvement,,Chagas disease,Protozoal diseases
+B5730,Chagas' disease with digestive system involvement unspecified,Chagas' disease (chronic) with digestive system involvement,Chagas disease,Protozoal diseases
+B5731,Megaesophagus in Chagas' disease,Chagas' disease (chronic) with digestive system involvement,Chagas disease,Protozoal diseases
+B5732,Megacolon in Chagas' disease,Chagas' disease (chronic) with digestive system involvement,Chagas disease,Protozoal diseases
+B5739,Other digestive system involvement in Chagas' disease,Chagas' disease (chronic) with digestive system involvement,Chagas disease,Protozoal diseases
+B573,Chagas' disease (chronic) with digestive system involvement,,Chagas disease,Protozoal diseases
+B5740,Chagas' disease with nervous system involvement unspecified,Chagas' disease (chronic) with nervous system involvement,Chagas disease,Protozoal diseases
+B5741,Meningitis in Chagas' disease,Chagas' disease (chronic) with nervous system involvement,Chagas disease,Protozoal diseases
+B5742,Meningoencephalitis in Chagas' disease,Chagas' disease (chronic) with nervous system involvement,Chagas disease,Protozoal diseases
+B5749,Other nervous system involvement in Chagas' disease,Chagas' disease (chronic) with nervous system involvement,Chagas disease,Protozoal diseases
+B574,Chagas' disease (chronic) with nervous system involvement,,Chagas disease,Protozoal diseases
+B575,Chagas' disease (chronic) with other organ involvement,,Chagas disease,Protozoal diseases
+B5800,Toxoplasma oculopathy unspecified,Toxoplasma oculopathy,Toxoplasmosis,Protozoal diseases
+B5801,Toxoplasma chorioretinitis,Toxoplasma oculopathy,Toxoplasmosis,Protozoal diseases
+B5809,Other toxoplasma oculopathy,Toxoplasma oculopathy,Toxoplasmosis,Protozoal diseases
+B580,Toxoplasma oculopathy,,Toxoplasmosis,Protozoal diseases
+B581,Toxoplasma hepatitis,,Toxoplasmosis,Protozoal diseases
+B582,Toxoplasma meningoencephalitis,,Toxoplasmosis,Protozoal diseases
+B583,Pulmonary toxoplasmosis,,Toxoplasmosis,Protozoal diseases
+B5881,Toxoplasma myocarditis,Toxoplasmosis with other organ involvement,Toxoplasmosis,Protozoal diseases
+B5882,Toxoplasma myositis,Toxoplasmosis with other organ involvement,Toxoplasmosis,Protozoal diseases
+B5883,Toxoplasma tubulo-interstitial nephropathy,Toxoplasmosis with other organ involvement,Toxoplasmosis,Protozoal diseases
+B5889,Toxoplasmosis with other organ involvement,Toxoplasmosis with other organ involvement,Toxoplasmosis,Protozoal diseases
+B588,Toxoplasmosis with other organ involvement,,Toxoplasmosis,Protozoal diseases
+B589,Toxoplasmosis unspecified,,Toxoplasmosis,Protozoal diseases
+B6000,Babesiosis unspecified,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B6001,Babesiosis due to Babesia microti,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B6002,Babesiosis due to Babesia duncani,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B6003,Babesiosis due to Babesia divergens,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B6009,Other babesiosis,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B600,Babesiosis,,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B6010,Acanthamebiasis unspecified,Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B6011,Meningoencephalitis due to Acanthamoeba (culbertsoni),Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B6012,Conjunctivitis due to Acanthamoeba,Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B6013,Keratoconjunctivitis due to Acanthamoeba,Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B6019,Other acanthamebic disease,Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B601,Acanthamebiasis,,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B602,Naegleriasis,,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B608,Other specified protozoal diseases,,Other protozoal diseases not elsewhere classified,Protozoal diseases
+B64,Unspecified protozoal disease,,Unspecified protozoal disease,Protozoal diseases
+B650,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis],,Schistosomiasis [bilharziasis],Helminthiases
+B651,Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis],,Schistosomiasis [bilharziasis],Helminthiases
+B652,Schistosomiasis due to Schistosoma japonicum,,Schistosomiasis [bilharziasis],Helminthiases
+B653,Cercarial dermatitis,,Schistosomiasis [bilharziasis],Helminthiases
+B658,Other schistosomiasis,,Schistosomiasis [bilharziasis],Helminthiases
+B659,Schistosomiasis unspecified,,Schistosomiasis [bilharziasis],Helminthiases
+B660,Opisthorchiasis,,Other fluke infections,Helminthiases
+B661,Clonorchiasis,,Other fluke infections,Helminthiases
+B662,Dicroceliasis,,Other fluke infections,Helminthiases
+B663,Fascioliasis,,Other fluke infections,Helminthiases
+B664,Paragonimiasis,,Other fluke infections,Helminthiases
+B665,Fasciolopsiasis,,Other fluke infections,Helminthiases
+B668,Other specified fluke infections,,Other fluke infections,Helminthiases
+B669,Fluke infection unspecified,,Other fluke infections,Helminthiases
+B670,Echinococcus granulosus infection of liver,,Echinococcosis,Helminthiases
+B671,Echinococcus granulosus infection of lung,,Echinococcosis,Helminthiases
+B672,Echinococcus granulosus infection of bone,,Echinococcosis,Helminthiases
+B6731,Echinococcus granulosus infection thyroid gland,Echinococcus granulosus infection other and multiple sites,Echinococcosis,Helminthiases
+B6732,Echinococcus granulosus infection multiple sites,Echinococcus granulosus infection other and multiple sites,Echinococcosis,Helminthiases
+B6739,Echinococcus granulosus infection other sites,Echinococcus granulosus infection other and multiple sites,Echinococcosis,Helminthiases
+B673,Echinococcus granulosus infection other and multiple sites,,Echinococcosis,Helminthiases
+B674,Echinococcus granulosus infection unspecified,,Echinococcosis,Helminthiases
+B675,Echinococcus multilocularis infection of liver,,Echinococcosis,Helminthiases
+B6761,Echinococcus multilocularis infection multiple sites,Echinococcus multilocularis infection other and multiple sites,Echinococcosis,Helminthiases
+B6769,Echinococcus multilocularis infection other sites,Echinococcus multilocularis infection other and multiple sites,Echinococcosis,Helminthiases
+B676,Echinococcus multilocularis infection other and multiple sites,,Echinococcosis,Helminthiases
+B677,Echinococcus multilocularis infection unspecified,,Echinococcosis,Helminthiases
+B678,Echinococcosis unspecified of liver,,Echinococcosis,Helminthiases
+B6790,Echinococcosis unspecified,Echinococcosis other and unspecified,Echinococcosis,Helminthiases
+B6799,Other echinococcosis,Echinococcosis other and unspecified,Echinococcosis,Helminthiases
+B679,Echinococcosis other and unspecified,,Echinococcosis,Helminthiases
+B680,Taenia solium taeniasis,,Taeniasis,Helminthiases
+B681,Taenia saginata taeniasis,,Taeniasis,Helminthiases
+B689,Taeniasis unspecified,,Taeniasis,Helminthiases
+B690,Cysticercosis of central nervous system,,Cysticercosis,Helminthiases
+B691,Cysticercosis of eye,,Cysticercosis,Helminthiases
+B6981,Myositis in cysticercosis,Cysticercosis of other sites,Cysticercosis,Helminthiases
+B6989,Cysticercosis of other sites,Cysticercosis of other sites,Cysticercosis,Helminthiases
+B698,Cysticercosis of other sites,,Cysticercosis,Helminthiases
+B699,Cysticercosis unspecified,,Cysticercosis,Helminthiases
+B700,Diphyllobothriasis,,Diphyllobothriasis and sparganosis,Helminthiases
+B701,Sparganosis,,Diphyllobothriasis and sparganosis,Helminthiases
+B710,Hymenolepiasis,,Other cestode infections,Helminthiases
+B711,Dipylidiasis,,Other cestode infections,Helminthiases
+B718,Other specified cestode infections,,Other cestode infections,Helminthiases
+B719,Cestode infection unspecified,,Other cestode infections,Helminthiases
+B72,Dracunculiasis,,Dracunculiasis,Helminthiases
+B7300,Onchocerciasis with eye involvement unspecified,Onchocerciasis with eye disease,Onchocerciasis,Helminthiases
+B7301,Onchocerciasis with endophthalmitis,Onchocerciasis with eye disease,Onchocerciasis,Helminthiases
+B7302,Onchocerciasis with glaucoma,Onchocerciasis with eye disease,Onchocerciasis,Helminthiases
+B7309,Onchocerciasis with other eye involvement,Onchocerciasis with eye disease,Onchocerciasis,Helminthiases
+B730,Onchocerciasis with eye disease,,Onchocerciasis,Helminthiases
+B731,Onchocerciasis without eye disease,,Onchocerciasis,Helminthiases
+B740,Filariasis due to Wuchereria bancrofti,,Filariasis,Helminthiases
+B741,Filariasis due to Brugia malayi,,Filariasis,Helminthiases
+B742,Filariasis due to Brugia timori,,Filariasis,Helminthiases
+B743,Loiasis,,Filariasis,Helminthiases
+B744,Mansonelliasis,,Filariasis,Helminthiases
+B748,Other filariases,,Filariasis,Helminthiases
+B749,Filariasis unspecified,,Filariasis,Helminthiases
+B75,Trichinellosis,,Trichinellosis,Helminthiases
+B760,Ancylostomiasis,,Hookworm diseases,Helminthiases
+B761,Necatoriasis,,Hookworm diseases,Helminthiases
+B768,Other hookworm diseases,,Hookworm diseases,Helminthiases
+B769,Hookworm disease unspecified,,Hookworm diseases,Helminthiases
+B770,Ascariasis with intestinal complications,,Ascariasis,Helminthiases
+B7781,Ascariasis pneumonia,Ascariasis with other complications,Ascariasis,Helminthiases
+B7789,Ascariasis with other complications,Ascariasis with other complications,Ascariasis,Helminthiases
+B778,Ascariasis with other complications,,Ascariasis,Helminthiases
+B779,Ascariasis unspecified,,Ascariasis,Helminthiases
+B780,Intestinal strongyloidiasis,,Strongyloidiasis,Helminthiases
+B781,Cutaneous strongyloidiasis,,Strongyloidiasis,Helminthiases
+B787,Disseminated strongyloidiasis,,Strongyloidiasis,Helminthiases
+B789,Strongyloidiasis unspecified,,Strongyloidiasis,Helminthiases
+B79,Trichuriasis,,Trichuriasis,Helminthiases
+B80,Enterobiasis,,Enterobiasis,Helminthiases
+B810,Anisakiasis,,Other intestinal helminthiases not elsewhere classified,Helminthiases
+B811,Intestinal capillariasis,,Other intestinal helminthiases not elsewhere classified,Helminthiases
+B812,Trichostrongyliasis,,Other intestinal helminthiases not elsewhere classified,Helminthiases
+B813,Intestinal angiostrongyliasis,,Other intestinal helminthiases not elsewhere classified,Helminthiases
+B814,Mixed intestinal helminthiases,,Other intestinal helminthiases not elsewhere classified,Helminthiases
+B818,Other specified intestinal helminthiases,,Other intestinal helminthiases not elsewhere classified,Helminthiases
+B820,Intestinal helminthiasis unspecified,,Unspecified intestinal parasitism,Helminthiases
+B829,Intestinal parasitism unspecified,,Unspecified intestinal parasitism,Helminthiases
+B830,Visceral larva migrans,,Other helminthiases,Helminthiases
+B831,Gnathostomiasis,,Other helminthiases,Helminthiases
+B832,Angiostrongyliasis due to Parastrongylus cantonensis,,Other helminthiases,Helminthiases
+B833,Syngamiasis,,Other helminthiases,Helminthiases
+B834,Internal hirudiniasis,,Other helminthiases,Helminthiases
+B838,Other specified helminthiases,,Other helminthiases,Helminthiases
+B839,Helminthiasis unspecified,,Other helminthiases,Helminthiases
+B850,Pediculosis due to Pediculus humanus capitis,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations
+B851,Pediculosis due to Pediculus humanus corporis,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations
+B852,Pediculosis unspecified,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations
+B853,Phthiriasis,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations
+B854,Mixed pediculosis and phthiriasis,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations
+B86,Scabies,,Scabies,Pediculosis acariasis and other infestations
+B870,Cutaneous myiasis,,Myiasis,Pediculosis acariasis and other infestations
+B871,Wound myiasis,,Myiasis,Pediculosis acariasis and other infestations
+B872,Ocular myiasis,,Myiasis,Pediculosis acariasis and other infestations
+B873,Nasopharyngeal myiasis,,Myiasis,Pediculosis acariasis and other infestations
+B874,Aural myiasis,,Myiasis,Pediculosis acariasis and other infestations
+B8781,Genitourinary myiasis,Myiasis of other sites,Myiasis,Pediculosis acariasis and other infestations
+B8782,Intestinal myiasis,Myiasis of other sites,Myiasis,Pediculosis acariasis and other infestations
+B8789,Myiasis of other sites,Myiasis of other sites,Myiasis,Pediculosis acariasis and other infestations
+B878,Myiasis of other sites,,Myiasis,Pediculosis acariasis and other infestations
+B879,Myiasis unspecified,,Myiasis,Pediculosis acariasis and other infestations
+B880,Other acariasis,,Other infestations,Pediculosis acariasis and other infestations
+B881,Tungiasis [sandflea infestation],,Other infestations,Pediculosis acariasis and other infestations
+B882,Other arthropod infestations,,Other infestations,Pediculosis acariasis and other infestations
+B883,External hirudiniasis,,Other infestations,Pediculosis acariasis and other infestations
+B888,Other specified infestations,,Other infestations,Pediculosis acariasis and other infestations
+B889,Infestation unspecified,,Other infestations,Pediculosis acariasis and other infestations
+B89,Unspecified parasitic disease,,Unspecified parasitic disease,Pediculosis acariasis and other infestations
+B900,Sequelae of central nervous system tuberculosis,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases
+B901,Sequelae of genitourinary tuberculosis,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases
+B902,Sequelae of tuberculosis of bones and joints,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases
+B908,Sequelae of tuberculosis of other organs,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases
+B909,Sequelae of respiratory and unspecified tuberculosis,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases
+B91,Sequelae of poliomyelitis,,Sequelae of poliomyelitis,Sequelae of infectious and parasitic diseases
+B92,Sequelae of leprosy,,Sequelae of leprosy,Sequelae of infectious and parasitic diseases
+B940,Sequelae of trachoma,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases
+B941,Sequelae of viral encephalitis,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases
+B942,Sequelae of viral hepatitis,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases
+B948,Sequelae of other specified infectious and parasitic diseases,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases
+B949,Sequelae of unspecified infectious and parasitic disease,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases
+B950,Streptococcus group A as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B951,Streptococcus group B as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B952,Enterococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B953,Streptococcus pneumoniae as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B954,Other streptococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B955,Unspecified streptococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9561,Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere,Staphylococcus aureus as the cause of diseases classified elsewhere,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9562,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,Staphylococcus aureus as the cause of diseases classified elsewhere,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B956,Staphylococcus aureus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B957,Other staphylococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B958,Unspecified staphylococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B960,Mycoplasma pneumoniae [M. pneumoniae] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B961,Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9620,Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9621,Shiga toxin-producing Escherichia coli [E. coli] [STEC] O157 as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9622,Other specified Shiga toxin-producing Escherichia coli [E. coli] [STEC] as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9623,Unspecified Shiga toxin-producing Escherichia coli [E. coli] [STEC] as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9629,Other Escherichia coli [E. coli] as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B962,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B963,Hemophilus influenzae [H. influenzae] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B964,Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B965,Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B966,Bacteroides fragilis [B. fragilis] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B967,Clostridium perfringens [C. perfringens] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9681,Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9682,Vibrio vulnificus as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9689,Other specified bacterial agents as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B968,Other specified bacterial agents as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B970,Adenovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9710,Unspecified enterovirus as the cause of diseases classified elsewhere,Enterovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9711,Coxsackievirus as the cause of diseases classified elsewhere,Enterovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9712,Echovirus as the cause of diseases classified elsewhere,Enterovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9719,Other enterovirus as the cause of diseases classified elsewhere,Enterovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B971,Enterovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9721,SARS-associated coronavirus as the cause of diseases classified elsewhere,Coronavirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9729,Other coronavirus as the cause of diseases classified elsewhere,Coronavirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B972,Coronavirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9730,Unspecified retrovirus as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9731,Lentivirus as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9732,Oncovirus as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9733,Human T-cell lymphotrophic virus type I [HTLV-I] as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9734,Human T-cell lymphotrophic virus type II [HTLV-II] as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9735,Human immunodeficiency virus type 2 [HIV 2] as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9739,Other retrovirus as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B973,Retrovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B974,Respiratory syncytial virus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B975,Reovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B976,Parvovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B977,Papillomavirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9781,Human metapneumovirus as the cause of diseases classified elsewhere,Other viral agents as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B9789,Other viral agents as the cause of diseases classified elsewhere,Other viral agents as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B978,Other viral agents as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents
+B998,Other infectious disease,,Other and unspecified infectious diseases,Other infectious diseases
+B999,Unspecified infectious disease,,Other and unspecified infectious diseases,Other infectious diseases
